@@ -1,0 +1,10 @@
+{
+  "name": "ونش الرواد لإنقاذ السيارات | خدمة 24 ساعة بالقاهرة",
+  "description": "ونش الرواد لإنقاذ السيارات في القاهرة - خدمة سريعة 24 ساعة في القاهرة الجديدة، مدينة نصر، المقطم، المعادي، ومصر الجديدة.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
